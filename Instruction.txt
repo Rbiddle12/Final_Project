@@ -1,0 +1,12 @@
+The Game Starts once the program is run
+The monster is randomly chosen from a pool of 4
+The monster is merely cosmetic for now
+You can Attack or Defend
+Defending takes the turn but halfs damage taken
+Attacking deals Damage but has no damage reduction on your end
+To Defend type in Defend or defend 
+To Attack type in Attack or attack 
+If you make a typo or mess up, the Monster's turn is skipped
+You get the choice of a weapon
+Weapons can buff damage along with change gameplay
+If the a weapon isn't chosen then it defaults to a normal attack and defend without weapon buffs
